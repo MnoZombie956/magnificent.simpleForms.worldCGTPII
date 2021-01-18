@@ -5,6 +5,8 @@ CEFET_MG
 
 alunos[] = {Francisco_Abreu, Marco_Túlio};
 
+PROJETO FINAL DEMONSTRADO: https://youtu.be/zn-EwlQP-ZI
+
 Se o Code Blocks disser que o projeto não exista, abra o Code Blocks e abra um novo projeto existente selecionando esse(Tp2.cbp) como o ja existente.
 Por mais que o codigo esteja em C++ não há implementações a mais alem das conhecidas em C.
 
