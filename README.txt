@@ -3,7 +3,7 @@ Prof. Flavio Coutinho
 Eng. Comp.
 CEFET_MG
 
-alunos[] = {Francisco_Abreu, Marco_Túlio};
+alunos[] = {Francisco_Abreu, Marco_Tulio};
 
 PROJETO FINAL DEMONSTRADO: https://youtu.be/zn-EwlQP-ZI
 
